@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Kalpesh Patil</Authors>
+    <Company>None</Company>
+    <Product>WebAdvertise Microservice</Product>
+    <PackageProjectUrl>https://github.com/Kalpesh-07/WebAdverties.AdvertiesAPI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Kalpesh-07/WebAdverties.AdvertiesAPI</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
